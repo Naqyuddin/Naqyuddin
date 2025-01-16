@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>Here’s a refined introduction for your GitHub bio based on the information you provided:<br><br>Hi there! 👋 I'm a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor's degree in Computing (Network and Security) with Honours.<br><br>I'm passionate about coding and problem-solving, always eager to learn and improve my skills. One of my favorite hobbies is playing chess, as it sharpens my strategic thinking, enhances my decision-making, and strengthens my mental focus—benefits that also inspire my approach to programming and cybersecurity.<br><br>Feel free to explore my repositories, where I aim to share my projects, grow as a developer, and collaborate with like-minded individuals. Let's connect and build something great together! 🚀
+<br>👋 I'm a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor's degree in Computing (Network and Security) with Honours.<br><br>I'm passionate about coding and problem-solving, always eager to learn and improve my skills. One of my favorite hobbies is playing chess, as it sharpens my strategic thinking, enhances my decision-making, and strengthens my mental focus—benefits that also inspire my approach to programming and cybersecurity.<br><br>Feel free to explore my repositories, where I aim to share my projects, grow as a developer, and collaborate with like-minded individuals. Let's connect and build something great together! 🚀
 
 
 ## 🌐 Socials:
